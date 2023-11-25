@@ -1,6 +1,6 @@
 # nextion_task
 
-A new Flutter project.
+Flutter Task Project For Nextion 
 
 ## Getting Started
 
